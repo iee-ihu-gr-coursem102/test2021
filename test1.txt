@@ -1,1 +1,6 @@
 Hello from Antonis
+<<<<<<< HEAD
+=======
+a=10
+a=50
+>>>>>>> db53192606eda1bcbf7537ca7c44aab9d9df2fa4
