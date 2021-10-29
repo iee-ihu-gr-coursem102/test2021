@@ -1,4 +1,8 @@
 Hello from Antonis
-a=70
+<<<<<<< HEAD
+=======
+a=10
 a=50
-a=111
+a=60
+>>>>>>> db53192606eda1bcbf7537ca7c44aab9d9df2fa4
+test
